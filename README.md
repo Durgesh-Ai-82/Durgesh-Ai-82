@@ -5,7 +5,7 @@ Email Me 👉 ✉️ dt510431@gmail.com For Collaboration/Project or Anything El
 
 🔭 I’m currently working on: Predictive Analytics Model
 🌱 I’m currently learning: Advanced Python, Deep Learning and Computer Vision
-👯 I’m looking to collaborate on: SaaS, AI and ML projects.
+👯 I’m looking to collaborate on: SAS, AI and ML projects.
 🤔 I’m looking for help with: Advance Neural Network 
 💬 Ask me about: Python Programmer and Machine Learner using AI Tools
 📫 How to reach me: dt510431@gmail.com
