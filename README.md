@@ -14,7 +14,7 @@ Email Me 👉 ✉️ dt510431@gmail.com For Collaboration/Project or Anything El
 ## 🏆 GitHub Trophy
 (https://github-profile-trophy.vercel.app/?username=Durgesh-Ai-82&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/durgesh-tiwari-a636572b5) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/4) [![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=df510431@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/durgesh-tiwari-a636572b5) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/4) [![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=dt510431@gmail.com)
 
 ![GitHub Snake Animation](https://githubusercontent.com)
 # 💻 Tech Stack:
